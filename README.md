@@ -69,3 +69,5 @@
 
 [![@aniketmishra's Holopin board](https://holopin.me/aniketmishra)](https://holopin.io/@aniketmishra)
 </a>
+
+<a href="https://app.daily.dev/aniketmishra0"><img src="https://api.daily.dev/devcards/v2/W4hc0jbuX1skymGGPibRT.png?r=em2&type=wide" width="652" alt="Aniket Mishra's Dev Card"/></a>
