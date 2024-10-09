@@ -10,7 +10,7 @@
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am currently working as a Freelance Frontend Developer & Open-Sourcer.
+- 💻 I am currently working as a Frontend Developer & Open-Sourcer.
 - 👨‍💻 All of my projects are available at [aniketmishra0.github.io/iamaniket](https://aniketmishra0.github.io/iamaniket)
 - 💬 Ask me about **javascript, Cloud Computing, Reactjs, APIs & Open-Sourcer**
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniketmishra0/](https://www.linkedin.com/in/aniketmishra0/)
